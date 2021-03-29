@@ -1,3 +1,5 @@
+// All perks must match
+//
 //******* Hand Cannons *********************************************************************************************************
 //Hand Cannon - Seventh Seraph Officer Revolver
 https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,4071163871,2779035018,4248210736,2323986101,0,0,2285418970#notes:PvP @shacknews
@@ -18,4 +20,3 @@ https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=129
 //Shotgun - Xenoclast IV
 https://destinytracker.com/destiny-2/db/items/2891672170-xenoclast-iv?perks=1458010786,1047830412,3142289711,3161816588,2450788523,4248210736,2323986101,150943607,0,2285418970#notes:PvP @knowtheroll.com
 https://destinytracker.com/destiny-2/db/items/2891672170?perks=1458010786,466087222,106909392,205890336,1683379515,4248210736,2323986101,1590375902#notes:just for test (all perks)
-https://destinytracker.com/destiny-2/db/items/2891672170?perks=1458010786,1482024992,3177308360,2284787283,2450788523,4248210736,2323986101,518224744#notes:just for test (1 perk)
