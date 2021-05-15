@@ -1,4 +1,5 @@
 // All perks must match
+// Get first 5 perks from destinitraker URL
 //
 https://destinytracker.com/destiny-2/db/items/3260753130?perks=3239299468,1196733167,3827198035,3298446480,2528315727,0,905869860,3978937353#notes:Just to check if list is loaded from Github
 https://destinytracker.com/destiny-2/db/items/1119734784?perks=878286503,3661387068,2420895100,1570042021,3592538738#notes:Just to check if list is loaded from Github
@@ -6,21 +7,21 @@ https://destinytracker.com/destiny-2/db/items/1119734784?perks=878286503,3661387
 //******* Hand Cannons *********************************************************************************************************
 //
 //Hand Cannon - Seventh Seraph Officer Revolver
-https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,4071163871,2779035018,4248210736,2323986101,0,0,2285418970#notes:PvP @shacknews
-https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,1354429876,2458213969,4248210736,2323986101,0,0,2285418970#notes:PvE @shacknews
+https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,4071163871,2779035018#notes:PvP @shacknews
+https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,1354429876,2458213969#notes:PvE @shacknews
 //Hand Cannon - Palindrome
 //notes:PvE @fanbyte.com
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,4090651448,1087426260,3643424744,3425386926,4248210736,2323986101,0,0,2285418970
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,4090651448,1087426260,1168162263,3425386926,4248210736,2323986101,0,0,2285418970
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,4090651448,1087426260,1168162263,4049631843,4248210736,2323986101,0,0,2285418970
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1087426260,3643424744,3425386926,4248210736,2323986101,0,0,2285418970
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1087426260,1168162263,3425386926,4248210736,2323986101,0,0,2285418970
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1087426260,1168162263,4049631843,4248210736,2323986101,0,0,2285418970
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,4090651448,1087426260,3643424744,3425386926
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,4090651448,1087426260,1168162263,3425386926
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,4090651448,1087426260,1168162263,4049631843
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1087426260,3643424744,3425386926
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1087426260,1168162263,3425386926
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1087426260,1168162263,4049631843
 
 //
-https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1885400500,706527188,2846385770,4248210736,2323986101,0,0,2285418970#notes:PvP @fanbyte.com
+https://destinytracker.com/destiny-2/db/items/432476743-the-palindrome?perks=1294026524,3250034553,1885400500,706527188,2846385770#notes:PvP @fanbyte.com
 //Hand Cannon - Survivor's Epitaph
-https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,3661387068,1885400500,2946784966,4104185692,4248210736,2323986101,518224747,0,2285418970#notes:Best Roll @thegamer
+https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,3661387068,1885400500,2946784966,4104185692#notes:Best Roll @thegamer
 //notes:@thegamer
 https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,3661387068,1885400500,3436462433,3592538738
 https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,3661387068,1885400500,2779035018,2458213969
@@ -30,20 +31,26 @@ https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,3661387
 //******* Shotguns *********************************************************************************************************
 //
 //Shotgun - Xenoclast IV
-https://destinytracker.com/destiny-2/db/items/2891672170-xenoclast-iv?perks=1458010786,1047830412,3142289711,3161816588,2450788523,4248210736,2323986101,150943607,0,2285418970#notes:PvP @knowtheroll.com
-https://destinytracker.com/destiny-2/db/items/2891672170?perks=1458010786,466087222,106909392,205890336,1683379515,4248210736,2323986101,1590375902#notes:just for test (all perks)
-https://destinytracker.com/destiny-2/db/items/108221785-riiswalker?perks=1458010786,1332244541,3142289711,706527188,591790007,4248210736,2323986101,518224747,0,2285418970#notes:thegamer.com
-https://destinytracker.com/destiny-2/db/items/108221785-riiswalker?perks=1458010786,1332244541,3142289711,3436462433,3523296417,4248210736,2323986101,518224747,0,2285418970#notes:PVE thegamer.com
+https://destinytracker.com/destiny-2/db/items/2891672170-xenoclast-iv?perks=1458010786,1047830412,3142289711,3161816588,2450788523#notes:PvP @knowtheroll.com
+https://destinytracker.com/destiny-2/db/items/2891672170?perks=1458010786,466087222,106909392,205890336,1683379515#notes:just for test (all perks)
+https://destinytracker.com/destiny-2/db/items/108221785-riiswalker?perks=1458010786,1332244541,3142289711,706527188,591790007#notes:thegamer.com
+https://destinytracker.com/destiny-2/db/items/108221785-riiswalker?perks=1458010786,1332244541,3142289711,3436462433,3523296417#notes:PVE thegamer.com
 //
 //******* Season Of The Splicer *********************************************************************************************************
 //
 //Hung Jury SR4
-https://destinytracker.com/destiny-2/db/items/4281371574-hung-jury-sr4?perks=1636108362,4090651448,106909392,1820235745,3824105627,4248210736,2323986101,518224747,0,2285418970#notes:@thegamer.com
+https://destinytracker.com/destiny-2/db/items/4281371574-hung-jury-sr4?perks=1636108362,4090651448,106909392,1820235745,3824105627#notes:@thegamer.com
 //Chroma Rush
-https://destinytracker.com/destiny-2/db/items/1119734784?perks=878286503,4090651448,106909392,1570042021,3425386926,4248210736,2323986101,1590375901,0,2285418970#notes:@thegamer.com
+https://destinytracker.com/destiny-2/db/items/1119734784?perks=878286503,4090651448,106909392,1570042021,3425386926#notes:@thegamer.com
 //Ignition Code
 https://destinytracker.com/destiny-2/db/items/304659313?perks=474269988,3525010810,3301904089,2010801679,4104185692#notes:@thegamer.com
 https://destinytracker.com/destiny-2/db/items/304659313?perks=474269988,3525010810,409831596,3436462433,1546637391#notes:PVP xavi 1st option
 https://destinytracker.com/destiny-2/db/items/304659313?perks=474269988,3525010810,3032599245,3436462433,1546637391#notes:PVP xavi 2nd option
-
-
+//Farewell
+https://destinytracker.com/destiny-2/db/items/541188001?perks=1458010786,3250034553,3142289711,4267945040,4104185692#notes:@thegamer.com
+//Gridskipper
+https://destinytracker.com/destiny-2/db/items/1621558458?perks=878286503,839105230,1885400500,2946784966,4104185692#notes:@thegamer.com
+//Sojourner's Tale
+https://destinytracker.com/destiny-2/db/items/599895591?perks=918679156,3250034553,791862061,3300816228,4104185692#notes:@thegamer.com
+//Shattered Cipher
+https://destinytracker.com/destiny-2/db/items/2434225986?perks=878286503,839105230,106909392,1570042021,3425386926#notes:@thegamer.com
