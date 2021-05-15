@@ -1,6 +1,9 @@
 // All perks must match
 //
+https://destinytracker.com/destiny-2/db/items/3260753130?perks=3239299468,1196733167,3827198035,3298446480,2528315727,0,905869860,3978937353#notes:Just to check if list is loaded from Github
+//
 //******* Hand Cannons *********************************************************************************************************
+//
 //Hand Cannon - Seventh Seraph Officer Revolver
 https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,4071163871,2779035018,4248210736,2323986101,0,0,2285418970#notes:PvP @shacknews
 https://destinytracker.com/destiny-2/db/items/3037520408-seventh-seraph-officer-revolver?perks=1322370662,1482024992,106909392,1354429876,2458213969,4248210736,2323986101,0,0,2285418970#notes:PvE @shacknews
@@ -24,6 +27,7 @@ https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,3661387
 //
 //
 //******* Shotguns *********************************************************************************************************
+//
 //Shotgun - Xenoclast IV
 https://destinytracker.com/destiny-2/db/items/2891672170-xenoclast-iv?perks=1458010786,1047830412,3142289711,3161816588,2450788523,4248210736,2323986101,150943607,0,2285418970#notes:PvP @knowtheroll.com
 https://destinytracker.com/destiny-2/db/items/2891672170?perks=1458010786,466087222,106909392,205890336,1683379515,4248210736,2323986101,1590375902#notes:just for test (all perks)
@@ -31,5 +35,6 @@ https://destinytracker.com/destiny-2/db/items/108221785-riiswalker?perks=1458010
 https://destinytracker.com/destiny-2/db/items/108221785-riiswalker?perks=1458010786,1332244541,3142289711,3436462433,3523296417,4248210736,2323986101,518224747,0,2285418970#notes:PVE thegamer.com
 //
 //******* Scout Rifle *********************************************************************************************************
+//
 //Hung Jury SR4
 https://destinytracker.com/destiny-2/db/items/4281371574-hung-jury-sr4?perks=1636108362,4090651448,106909392,1820235745,3824105627,4248210736,2323986101,518224747,0,2285418970#notes:@thegamer.com
