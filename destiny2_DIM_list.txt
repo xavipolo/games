@@ -74,3 +74,4 @@ https://destinytracker.com/destiny-2/db/items/1621558458?perks=878286503,8391052
 https://destinytracker.com/destiny-2/db/items/599895591?perks=918679156,3250034553,791862061,3300816228,4104185692#notes:@thegamer.com
 //Shattered Cipher
 https://destinytracker.com/destiny-2/db/items/2434225986?perks=878286503,839105230,106909392,1570042021,3425386926#notes:@thegamer.com
+https://destinytracker.com/destiny-2/db/items/2434225986?perks=878286503,1570042021,3425386926#notes:@thegamer.com
